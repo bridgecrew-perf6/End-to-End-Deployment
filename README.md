@@ -3,7 +3,7 @@
 I would recommend to follow the below mentioned points to navigate through primary source code files and other important files. Moreover, it would also help to review the project quickly. However, you are free to proceed in your own way.
 * click on the link which is basically an API to fetch the list of all companies.
 
- https://web-api321.herokuapp.com/company
+  https://web-api321.herokuapp.com/company
 
 * Go through **Project_Architecture.pdf** file to understand the design and flow of data.
 
