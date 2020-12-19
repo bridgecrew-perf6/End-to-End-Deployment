@@ -7,9 +7,9 @@ I would recommend to follow the below mentioned points to navigate through prima
 
 * Go through **Project_Architecture.pdf** file to understand the design and flow of data.
 
-* Now, have a look at **Data_Engineer_Q&A.pdf** which contains the answers of asked question in the task file.
+* Now, have a look at **Data_Engineer_Q&A.pdf** which contains the answers of asked questions in the task file.
 
-* Navigate thorough these folders which contains source code file & output file for listing page(company index).
+* Navigate thorough these folders which contains source code file & output file for listing page (company index).
 
   **Source Code File Path**
 
@@ -19,7 +19,7 @@ I would recommend to follow the below mentioned points to navigate through prima
 
   company_index > company_index_spider > company_index.json
 
-* Similarly, these folders contains source code file & output file for product page(company profiles).
+* Similarly, these folders contains source code file & output file for product page (company profiles).
 
   **Source Code File Path**
 
