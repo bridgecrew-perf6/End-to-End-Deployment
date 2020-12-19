@@ -39,7 +39,7 @@ https://web-api321.herokuapp.com/company
   Web API link given after first point is the output for this task.
 
 
-##Technologies Used##
+**Technologies Used
 * python - 3.7.3
 * Scrapy - 2.4.1
 * Spalsh - 0.7.2
