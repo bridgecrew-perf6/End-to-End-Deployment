@@ -10,33 +10,33 @@ https://web-api321.herokuapp.com/company
 
 * Navigate thorough these folders which contains source code file & output files for listing page(company index).
 
-**Source Code File Path**
+  **Source Code File Path**
 
-company_index > company_index_spider > company_index_spider.py
+  company_index > company_index_spider > company_index_spider.py
 
-**Output File Path**
+  **Output File Path**
 
-company_index > company_index_spider > company_index.json
+  company_index > company_index_spider > company_index.json
 
 * Similarly, these folders contains source code file & output files for product page(company profiles).
 
-**Source Code File Path**
+  **Source Code File Path**
 
-company_profiles > company_profiles_spider >Company_Profiles_Spider.py
+  company_profiles > company_profiles_spider >Company_Profiles_Spider.py
 
-**Output File Path**
+  **Output File Path**
 
-company_profiles > company_profiles_spider >company_profiles.json
+  company_profiles > company_profiles_spider >company_profiles.json
 
 * In same way, last folder contains code of Flask Web API.
 
-**Source Code File Path**
+  **Source Code File Path**
 
-web_api > Flask_API > app.py
+  web_api > Flask_API > app.py
 
-**Output File **
+  **Output File **
 
-Web API link given after first point is the output for this task.
+  Web API link given after first point is the output for this task.
 
 
 ##Technologies Used##
